@@ -1,3 +1,3 @@
 # Deepfake
 
-DCGAN implementation for deepfake detection
+DCGAN implementation for deepfake generation and MesoNet-inspired implementation for deepfake generation
